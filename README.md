@@ -44,4 +44,4 @@ Simply open `index.html` in any modern browser — no build step needed!
 ⭐ Star this repo if you find it useful!
 🐛 Issues and PRs welcome
 
-contact for full working version according to your need and requirements(professorshami435@gmail.com)
+contact for full working version according to your need and requirements or FYP's(professorshami435@gmail.com)
