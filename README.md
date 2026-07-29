@@ -8,7 +8,7 @@ A modern, fully-functional queue management solution built with vanilla JavaScri
 - **Multi-Service Tokens**: Separate queues for General, Priority, Billing, and Support
 - **Real-Time Display Board**: Live counter status with animated token cards
 - **Counter Management**: Individual controls for each service station
-- **Queue Analytics**: Track efficiency, wait times, and service metrics
+- **Queue Analytics**: Track efficiency, wait times, and service metrics 
 - **Responsive Design**: Works on desktop, tablet, and mobile
 - **Keyboard Shortcuts**: Space (call next), Ctrl+N (new token), Escape (close)
 - **Zero Dependencies**: Pure HTML/CSS/JS — no frameworks required
